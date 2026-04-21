@@ -1,0 +1,6 @@
+@WotrApi_HostAddress = http://localhost:5227
+
+GET {{WotrApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
